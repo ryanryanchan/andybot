@@ -1,0 +1,11 @@
+{
+	"name": "AndyBot",
+	"version": "1.0.0",
+	"description": "Hi I'm dad",
+	"main": "bot.js",
+	"author": "spicytofu",
+	"dependencies": {
+		"discord.io": "github:woor/discord.io#gateway_v6",
+		"winston": "^3.3.3"
+	}
+}
